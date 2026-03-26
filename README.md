@@ -6,4 +6,4 @@
 
 # hi, im meri!
 
-in my free time i make apps, and tooling for things i like. recently interested in ren'py, second life and irc. website... expert?
+in my free time i make apps, and tooling for things i like. recently interested in ren'py, second life and irc. website expert?
